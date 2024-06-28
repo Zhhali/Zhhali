@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%Zhhali!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Zhhali!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -28,10 +28,10 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/ZhangQL2824"><img src="https://img.shields.io/badge/GitHub-Zhhali-blue?logo=github" /></a>
-<img src="https://img.shields.io/badge/QQ-3024666853-green?logo=tencentqq" />
+<a href="https://github.com/Zhhali"><img src="https://img.shields.io/badge/GitHub-Zhhali-blue?logo=github" /></a>
+<img src="https://img.shields.io/badge/QQ-3087441340-green?logo=tencentqq" />
 
-<img src="[https://img.shields.io/badge/QQ-3024666853-green?logo=tencentqq](https://img.shields.io/badge/runningmonkey0-a?logo=wechat&labelColor=white&color=gray)" />
+<img src="[https://img.shields.io/badge/QQ-3087441340-green?logo=tencentqq](https://img.shields.io/badge/runningmonkey0-a?logo=wechat&labelColor=white&color=gray)" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
 <img src="[https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow](https://img.shields.io/badge/%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-blue)" />
