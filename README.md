@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+Zhhali's+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
-
+<div align=center> <img width="300" height="300" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
